@@ -1,6 +1,6 @@
 {
   "name": "app",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "> TODO: description",
   "author": "Robert Babcock <robert-babcock@pluralsight.com>",
   "homepage": "https://github.com/rbabcock/sandbox#readme",
@@ -28,6 +28,6 @@
     "url": "https://github.com/rbabcock/sandbox/issues"
   },
   "dependencies": {
-    "app2": "^1.0.2"
+    "app2": "^1.0.3"
   }
 }
